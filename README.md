@@ -21,7 +21,7 @@ Afonso :)
 
 ## Estrutura do arquivo, por isso, de cada autocarro.
 
-  "agency_id": Identificador do operador.
+    "agency_id": Identificador do operador.
     "vehicle_number": Número do veículo.
     "id": Junção dos dois IDs (agency_id, veichle_number)  agency_id|veichle_number
     "start_date": Começo da operação do veículo.
