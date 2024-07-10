@@ -6,6 +6,7 @@ Após descobrir que a Carris Metropolitana tem uma conta no GitHub, decidi ver m
 Até agora, encontrei os seguintes operadores:
 1. TST
 2. Grupo Barraqueiro Transportes SA (Donos da Rodoviária de Lisboa e Barraqueiro Transportes)
+
 Infelizmente, não consegui encontrar a VA nem o Alsa Todi.
 Penso que esta lista só inclui os operadores que aderiram ao tracking da Carris Metropolitana.
 
