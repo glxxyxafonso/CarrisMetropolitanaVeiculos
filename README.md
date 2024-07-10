@@ -16,3 +16,43 @@ AML, TST ou Barraqueiro Transportes: Não tenho nenhum problema em apagar este r
 
 Obrigado,
 Afonso :)
+
+--- 
+
+## Estrutura do arquivo, por isso, de cada autocarro.
+
+  "agency_id": Identificador do operador.
+    "vehicle_number": Número do veículo.
+    "id": Junção dos dois IDs (agency_id, veichle_number)  agency_id|veichle_number
+    "start_date": Começo da operação do veículo.
+    "license_plate": Matrícula.
+    "make": Marca do veículo. 
+    "model": Modelo do Veículo. 
+    "owner": Operador proprietário
+    "registration_date": Data de registro do veículo (matrícula penso eu)
+    "available_seats": Quantos lugares estão disponíveis
+    "available_standing": Quantas pessoas podem ficar em pé no veículo (recomendação, penso eu)
+    "typology": ??
+    "vclass": ??
+    "propulsion": ??
+    "emission": Um rating de emissões, penso eu.
+    "new_seminew": Se o veículo é seminovo (usado)
+    "ecological": Se o veículo é elétrico ou não.
+    "climatization": Se o veículo tem ar condicionado ou não. 
+    "wheelchair": Se o veículo consegue ter um passageiro de cadeira de rodas.
+    "corridor": Se tem um corredor? Não sei. 
+    "lowered_floor": ??
+    "ramp": Rampa ou sem rampa para passageiro de cadeira de rodas.
+    "folding_system": Sistema de dobra, penso que da rampa. 
+    "kneeling": ??
+    "static_information": Se tem informação estática (por isso, um documento)
+    "onboard_monitor": Se tem um ecrã dentro do autocarro, que diz a próxima paragem, etc.
+    "front_display": Ecrã em frente do veículo (mostra nº do autocarro, etc.)
+    "rear_display": Ecrã atrás do veículo (mostra nº do autocarro, etc.)
+    "side_display": Ecrã ao lado do veículo (mostra nº do autocarro, etc.)
+    "internal_sound": Se tem um speaker que diz a próxima paragem, etc.
+    "external_sound": Coluna exterior?
+    "consumption_meter": Provavelmente para medir o consumo de gasolina. 
+    "bicycles": Lugares para bicicletas.
+    "passenger_counting": Sistema de contagem de passageiros.
+    "video_surveillance": Câmeras de segurança abordo.
